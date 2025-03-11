@@ -1,1 +1,1 @@
-select * from  bus_routes
+SELECT * from bus_routes;
