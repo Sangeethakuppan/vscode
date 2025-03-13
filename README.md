@@ -2,7 +2,7 @@
 
                 Redbus Data Scraping with Selenium & Dynamic Filtering using Streamlit
 
-IMORT LIBRARIES:
+Importing libraries:
 
 1)time: wait for pages to load
 2)selenium.webdriver:automate web browser interactions (like opening a page, clicking elements, etc.).
